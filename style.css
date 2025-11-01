@@ -1,0 +1,36 @@
+   body {
+      font-family: "Cairo", sans-serif;
+      background: linear-gradient(135deg, #6fb1fc, #4364f7);
+      color: #fff;
+      text-align: center;
+      padding: 40px;
+    }
+
+    input {
+      padding: 10px;
+      border: none;
+      border-radius: 8px;
+      width: 200px;
+      font-size: 16px;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 8px;
+      background-color: #ffb703;
+      color: #333;
+      font-weight: bold;
+      cursor: pointer;
+      margin-left: 5px;
+    }
+
+    .weather {
+      margin-top: 30px;
+      font-size: 18px;
+    }
+
+    .loading {
+      font-size: 16px;
+      opacity: 0.8;
+    }
